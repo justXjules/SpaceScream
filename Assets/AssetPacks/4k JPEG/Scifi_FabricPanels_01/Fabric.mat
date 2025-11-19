@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-5308281609897189143
+--- !u!114 &-5336803900944932425
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SciFiPanel
+  m_Name: Fabric
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -43,11 +43,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: e516676394fa25f4d92dfc0bf3da6cf9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 655149cef41b1df4bb62914460545b98, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 8f5fce5aecadf784d8808eaf605bbc17, type: 3}
+        m_Texture: {fileID: 2800000, guid: ff1ef79c75535504f89537395255e1b8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -67,19 +67,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: e516676394fa25f4d92dfc0bf3da6cf9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 655149cef41b1df4bb62914460545b98, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: ef508e29482f2c84f919df06e56ab30c, type: 3}
+        m_Texture: {fileID: 2800000, guid: e9dc59f8ffbbbe24a8de77399f4b3fcc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: b3f4fa1f45aa14e4c86e15c5b58e75bc, type: 3}
+        m_Texture: {fileID: 2800000, guid: 110bfa62dd3fca242aeef0aff7735ea9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 4a5fd29e02de89b408597d334f6eb972, type: 3}
+        m_Texture: {fileID: 2800000, guid: 130d60b83f91afc4990a78ae898e9166, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
